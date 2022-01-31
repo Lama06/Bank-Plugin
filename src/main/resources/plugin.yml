@@ -1,6 +1,7 @@
 name: Bank-Plugin
 authors: [Uett, Lama06]
 main: io.github.lama06.bankplugin.BankPlugin
+api-version: 1.18
 version: 1.0.0
 
 commands:
