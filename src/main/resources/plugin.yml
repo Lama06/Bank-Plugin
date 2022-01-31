@@ -1,0 +1,8 @@
+name: Bank-Plugin
+authors: [Uett, Lama06]
+main: io.github.lama06.bankplugin.BankPlugin
+version: 1.0.0
+
+commands:
+  bank:
+    description: Der Hauptcommand des Plugins
